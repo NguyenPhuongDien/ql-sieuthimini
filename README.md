@@ -1,8 +1,6 @@
 
 Phần mền quản lý siêu thị mini
 # Thành viên
-<h4>Tên nhóm:  Hệ thống quản lý của hàng máy tính </h4>
-
   
 | STT | Họ tên | Chức vụ  |
 |----------------|--------------------|--------------------|
