@@ -57,15 +57,15 @@ hệ thống bao gồm tên khách hàng, giới tính, số điện thoại,…
 #### Quy trình bán hàng:
 ##### 1. Nhận yêu cầu mua hàng từ khách hàng
 <ul>
-  <li>- Khách hàng chọn sản phẩm và mang đến quầy thanh toán hoặc gọi nhân viên để tư vấn.</li>
-  <li>- Nhân viên tiếp nhận yêu cầu, kiểm tra sản phẩm, số lượng và giá.</li>
+  <li> Khách hàng chọn sản phẩm và mang đến quầy thanh toán hoặc gọi nhân viên để tư vấn.</li>
+  <li> Nhân viên tiếp nhận yêu cầu, kiểm tra sản phẩm, số lượng và giá.</li>
 </ul>
 
 ##### 2. Tạo hóa đơn
 <ul>
-  <li>- Nhân viên tạo hóa đơn với thông tin chi tiết về sản phẩm, giá tiền, và số lượng
+  <li> Nhân viên tạo hóa đơn với thông tin chi tiết về sản phẩm, giá tiền, và số lượng
 mua.</li>
-  <li>- Áp dụng các chương trình giảm giá hoặc khuyến mãi nếu có.</li>
+  <li> Áp dụng các chương trình giảm giá hoặc khuyến mãi nếu có.</li>
 </ul>
 
 ##### 3. Xác nhận thanh toán
@@ -76,15 +76,15 @@ mua.</li>
 
 ##### 4. Giao hàng hoặc đóng gói sản phẩm
 <ul>
-  <li>- Nếu có, nhân viên đóng gói sản phẩm hoặc chuẩn bị đơn hàng để giao cho
+  <li> Nếu có, nhân viên đóng gói sản phẩm hoặc chuẩn bị đơn hàng để giao cho
 khách hàng.</li>
-   <li>- Xác nhận thông tin địa chỉ giao hàng nếu cần.</li>
+   <li> Xác nhận thông tin địa chỉ giao hàng nếu cần.</li>
 </ul>
 
 ##### 5. Hoàn tất giao dịch
 <ul>
-  <li>- Khách hàng nhận hóa đơn và sản phẩm.</li>
-  <li>- Hệ thống cập nhật số lượng tồn kho sau giao dịch.</li>
+  <li> Khách hàng nhận hóa đơn và sản phẩm.</li>
+  <li> Hệ thống cập nhật số lượng tồn kho sau giao dịch.</li>
 </ul>
 
 
