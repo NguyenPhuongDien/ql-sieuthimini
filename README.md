@@ -32,6 +32,47 @@ khách hàng.
 để tạo mô hình khách hàng tốt hơn.
 - Quản lý nhân viên: Lưu trữ thông tin của nhân viên để dể trong việc quản lý và vận
 hành của siêu thị mini
+## Phân tích đề tài
+### Yêu cầu hệ thông
+Mô tả: Hệ thống cần thực hiện tốt các chức năng quản lý liên quan đến hoạt động hàng
+ngày của siêu thị mini. Cụ thể, các chức năng này có thể bao gồm:
+#### 1: Quản lý hàng hoá:
+- Thêm sản phẩm mới: Cho phép người dùng thêm thông tin sản phẩm mới vào hệ
+thống bao gồm tên sản phẩm, mô tả, giá, số lượng trong kho,…
+- Sửa thông tin sản phẩm: Cho phép người dùng chỉnh sửa thông tin của sản phẩm như
+giá, mô tả,…
+- Xóa sản phẩm: Cho phép người dùng xóa sản phẩm không còn cần thiết khỏi hệ thống.
+#### 2:Quản lý bán hàng:
+- Tính toán hóa đơn: Tự động tính toán giá tiền cho từng giao dịch mua hàng.
+- Tính toán giảm giá và khuyến mãi: Áp dụng các chương trình giảm giá hoặc khuyến
+mãi cho các mặt hàng khi cần thiết.
+- Quản lý thanh toán: Cung cấp các phương thức thanh toán đa dạng như tiền mặt, thẻ,
+hoặc ví điện tử
+#### 3: Quản lý khách hàng:
+- Tạo hồ sơ khách hàng: Cho phép người dùng thêm thông tin khách hàng mới mới vào
+hệ thống bao gồm tên khách hàng, giới tính, số điện thoại,…
+- Sửa thông tin khách hàng: Cho phép người dùng chỉnh sửa thông tin của khách hàng
+- Xóa khách hàng: Cho phép người dùng khách khỏi hệ thống.
+### Quy trình nghiệp vụ
+#### Quy trình bán hàng:
+1. Nhận yêu cầu mua hàng từ khách hàng
+a. Khách hàng chọn sản phẩm và mang đến quầy thanh toán hoặc gọi nhân viên
+để tư vấn.
+b. Nhân viên tiếp nhận yêu cầu, kiểm tra sản phẩm, số lượng và giá.
+2. Tạo hóa đơn6
+a. Nhân viên tạo hóa đơn với thông tin chi tiết về sản phẩm, giá tiền, và số lượng
+mua.
+b. Áp dụng các chương trình giảm giá hoặc khuyến mãi nếu có.
+3. Xác nhận thanh toán
+a. Nhân viên thông báo tổng số tiền cần thanh toán cho khách hàng.
+b. Khách hàng thực hiện thanh toán bằng tiền mặt, thẻ hoặc ví điện tử.
+4. Giao hàng hoặc đóng gói sản phẩm
+a. Nếu có, nhân viên đóng gói sản phẩm hoặc chuẩn bị đơn hàng để giao cho
+khách hàng.
+b. Xác nhận thông tin địa chỉ giao hàng nếu cần.
+5. Hoàn tất giao dịch
+a. Khách hàng nhận hóa đơn và sản phẩm.
+b. Hệ thống cập nhật số lượng tồn kho sau giao dịch.
 
 
 
