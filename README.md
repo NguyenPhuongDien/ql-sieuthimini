@@ -55,22 +55,23 @@ hệ thống bao gồm tên khách hàng, giới tính, số điện thoại,…
 - Xóa khách hàng: Cho phép người dùng khách khỏi hệ thống.
 ### Quy trình nghiệp vụ
 #### Quy trình bán hàng:
-1. Nhận yêu cầu mua hàng từ khách hàng
+##### 1. Nhận yêu cầu mua hàng từ khách hàng
 a. Khách hàng chọn sản phẩm và mang đến quầy thanh toán hoặc gọi nhân viên
 để tư vấn.
+
 b. Nhân viên tiếp nhận yêu cầu, kiểm tra sản phẩm, số lượng và giá.
-2. Tạo hóa đơn6
-a. Nhân viên tạo hóa đơn với thông tin chi tiết về sản phẩm, giá tiền, và số lượng
+##### 2. Tạo hóa đơn
+  a. Nhân viên tạo hóa đơn với thông tin chi tiết về sản phẩm, giá tiền, và số lượng
 mua.
-b. Áp dụng các chương trình giảm giá hoặc khuyến mãi nếu có.
-3. Xác nhận thanh toán
+  b. Áp dụng các chương trình giảm giá hoặc khuyến mãi nếu có.
+##### 3. Xác nhận thanh toán
 a. Nhân viên thông báo tổng số tiền cần thanh toán cho khách hàng.
 b. Khách hàng thực hiện thanh toán bằng tiền mặt, thẻ hoặc ví điện tử.
-4. Giao hàng hoặc đóng gói sản phẩm
-a. Nếu có, nhân viên đóng gói sản phẩm hoặc chuẩn bị đơn hàng để giao cho
+##### 4. Giao hàng hoặc đóng gói sản phẩm
+  a. Nếu có, nhân viên đóng gói sản phẩm hoặc chuẩn bị đơn hàng để giao cho
 khách hàng.
-b. Xác nhận thông tin địa chỉ giao hàng nếu cần.
-5. Hoàn tất giao dịch
+  b. Xác nhận thông tin địa chỉ giao hàng nếu cần.
+##### 5. Hoàn tất giao dịch
 a. Khách hàng nhận hóa đơn và sản phẩm.
 b. Hệ thống cập nhật số lượng tồn kho sau giao dịch.
 
